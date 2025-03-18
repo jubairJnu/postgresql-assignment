@@ -88,4 +88,4 @@ Write a query to retrieve the first name and last name of students along with th
 ### **9. Use `LEFT JOIN` to Show All Students and Their Enrolled Courses (If Any)**
 Write a query to retrieve the first name and last name of all students, along with the names of the courses they are enrolled in (if any). Use a `LEFT JOIN` to include students who are not enrolled in any course.
 
-nt
+
