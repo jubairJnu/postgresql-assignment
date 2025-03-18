@@ -43,6 +43,8 @@ The Database Name will be "student_management"
 - course Table (Minimum 3 data)
 - Enrollment Table (Minimum 3 data with different enrollment_date)
 
+### You can insert dummy data and get this in insertData.sql file.
+
 ## **Tasks**
 
 ### **1. Retrieve All Students' Names and Emails**
